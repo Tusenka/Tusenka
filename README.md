@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+weekly notes-
+Upgraded ansible for Docker and Zsh. ANSI le now is working
 <!--
 **Tusenka/Tusenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
