@@ -1,10 +1,12 @@
 ### Hi there 👋
 I am pytest developer with more thab 3 years expierence.
 
+
 My codeforce profile:
-https://codeforces.com/profile/taagcgaat
+https://codeforces.com/profile/taagcgaat.
+
 My hackerrank profile:
-https://www.hackerrank.com/Tusenka/
+https://www.hackerrank.com/Tusenka.
 
 <!--
 **Tusenka/Tusenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
