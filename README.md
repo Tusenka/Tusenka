@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am pytest developer with more thab 3 years expierence.
+I am a python QA developer with more thab 3 years expierence. Deep learning, OpenAi, Webcams, Linux, Math.
 
 
 My codeforce profile:
