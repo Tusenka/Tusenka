@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a python QA engineer with more thab 3 years expierence. Python, llM ,Webcams, , Linux, Math.
+I am a python QA engineer with more thab 3 years expierence. Python, LLM ,Webcams, , Linux, Math.
 
 
 My codeforce profile:
