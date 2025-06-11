@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a python QA developer with more thab 3 years expierence. Deep learning, OpenAi, Webcams, Linux, Math.
+I am a python QA engineer with more thab 3 years expierence. Python, llM ,Webcams, , Linux, Math.
 
 
 My codeforce profile:
@@ -7,6 +7,9 @@ https://codeforces.com/profile/taagcgaat.
 
 My hackerrank profile:
 https://www.hackerrank.com/Tusenka.
+
+My acmp profilie:
+https://acmp.ru/index.asp?main=user&id=535044
 
 <!--
 **Tusenka/Tusenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
