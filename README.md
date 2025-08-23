@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am a python QA engineer with more thab 3 years expierence. Python, LLM, Webcams, Linux, Math.
-
+I am a python QA engineer with more than 3 years expierence. Python, LLM, Webcams, Linux, Math.
+Work in Ozon tech.
 
 My codeforce profile:
 https://codeforces.com/profile/taagcgaat.
