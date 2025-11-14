@@ -12,6 +12,9 @@ https://www.hackerrank.com/Tusenka.
 My acmp profilie:
 https://acmp.ru/index.asp?main=user&id=535044
 
+my tg:
+@irina_tusenka
+
 <!--
 **Tusenka/Tusenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
