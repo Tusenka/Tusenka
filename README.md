@@ -10,22 +10,10 @@ My hackerrank profile:
 https://www.hackerrank.com/Tusenka.
 
 My acmp profilie:
-https://acmp.ru/index.asp?main=user&id=535044
+https://acmp.ru/index.asp?main=user&id=535044Ь
+
+My linkedin profie
+https://www.linkedin.com/in/irina-gracheva-21b652263/
 
 my tg:
 @irina_tusenka
-
-<!--
-**Tusenka/Tusenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
