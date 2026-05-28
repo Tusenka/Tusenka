@@ -7,7 +7,7 @@ My codeforce profile:
 https://codeforces.com/profile/taagcgaat.
 
 My hackerrank profile:
-https://www.hackerrank.com/Tusenka.
+https://tryhackme.com/p/taagcgaat
 
 My acmp profilie:
 https://acmp.ru/index.asp?main=user&id=535044Ь
@@ -18,5 +18,7 @@ https://www.linkedin.com/in/irina-gracheva-21b652263/
 My vk.com
 https://vk.com/alex_anonim53
 
+
 my tg:
 @irina_tusenka
+
