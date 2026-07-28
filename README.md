@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am a python QA engineer with more than 10 years expierence. Python, LLM, Webcams, Linux, Math.
+I am a python engineer with more than 10 years expierence. Python, LLM, Webcams, Linux, Math.
+Technocrat. Vegan. 
 
 Work in Ozon tech.
 
