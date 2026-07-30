@@ -4,6 +4,9 @@ Technocrat. Vegan.
 
 Work in Ozon tech.
 
+My gitlab profile:
+[https://gitlab.com/taagcgaaat/coffee_and_code](https://gitlab.com/taagcgaaat)
+
 My codeforce profile:
 https://codeforces.com/profile/taagcgaat.
 
@@ -18,7 +21,6 @@ https://www.linkedin.com/in/irina-gracheva-21b652263/
 
 My vk.com
 https://vk.com/alex_anonim53
-
 
 my tg:
 @irina_tusenka
