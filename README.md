@@ -1,8 +1,11 @@
 ### Hi there 👋
 I am a python engineer with more than 10 years experience. Python, LLM, Webcams, Linux, Math.
-Technocrat. Vegan. 
+Technocrat. Vegan mostly for ethical reasons. 
 
 Work in Ozon tech.
+
+My current pet project
+https://develop.bot.coffee-code.ru/
 
 My gitlab profile:
 [https://gitlab.com/taagcgaaat/coffee_and_code](https://gitlab.com/taagcgaaat)
