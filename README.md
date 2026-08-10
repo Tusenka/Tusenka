@@ -8,7 +8,7 @@ My gitlab profile:
 [https://gitlab.com/taagcgaaat/coffee_and_code](https://gitlab.com/taagcgaaat)
 
 My codeforce profile:
-https://codeforces.com/profile/taagcgaat.
+https://codeforces.com/profile/taagcgaat
 
 My hackerrank profile:
 https://tryhackme.com/p/taagcgaat
