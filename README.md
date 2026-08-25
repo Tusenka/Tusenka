@@ -10,6 +10,9 @@ https://develop.bot.coffee-code.ru/
 My gitlab profile:
 [https://gitlab.com/taagcgaaat/coffee_and_code](https://gitlab.com/taagcgaaat)
 
+My kaggle profile:
+[https://www.kaggle.com/alexanonym]
+
 My codeforce profile:
 https://codeforces.com/profile/taagcgaat
 
